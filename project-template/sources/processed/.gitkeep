@@ -1,0 +1,8 @@
+# Processed/structured data goes here
+
+Store cleaned, structured, or transformed data in this directory.
+
+Recommended formats:
+- JSON for structured extractions
+- CSV for tabular data
+- Markdown for summarized content

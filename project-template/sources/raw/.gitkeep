@@ -1,0 +1,6 @@
+# Raw scraped content goes here
+
+Keep original, unmodified content from web scrapes in this directory.
+
+Naming convention: {source-domain}_{date}_{short-title}.md
+Example: arxiv.org_2024-04-20_llm-evaluation-critique.md
